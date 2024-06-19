@@ -24,7 +24,7 @@ Configuring IAM OIDC provider ( The k8s pods talks to some AWS service (ALB) )
 
 ![oidc provider](https://github.com/Suresh-mpt/2048-eks/assets/173250817/72987775-4d46-4755-9819-adb33a88714b)
 
-Creating IAM policy
+Creating IAM policy.json
 
 ![policy json](https://github.com/Suresh-mpt/2048-eks/assets/173250817/c968a9c6-648a-42bf-86c3-62df7936a4d8)
 
