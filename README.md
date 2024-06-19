@@ -32,7 +32,7 @@ Creating service account and attach the role to the service account of the pod
 
 ![service acc](https://github.com/Suresh-mpt/2048-eks/assets/173250817/d1485521-715a-4a1e-a0ad-510e14dee511)
 
-Creating ingress controller and still not yet
+ingress controller still not yet created
 
 ![no ing controller](https://github.com/Suresh-mpt/2048-eks/assets/173250817/b0b688df-c193-44e5-8a4e-7cafb7562d14)
 
